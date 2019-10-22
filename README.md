@@ -1,1 +1,1 @@
-# newsSearch
+# News Search
